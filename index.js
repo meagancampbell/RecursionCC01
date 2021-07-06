@@ -6,3 +6,4 @@ function decreasingSum(integer) {
    }
 }
 
+console.log(decreasingSum(22));
